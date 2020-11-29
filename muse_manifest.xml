@@ -1,0 +1,920 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.penggemuk.com" resolutions="1x" timestamp="1548421044725">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="241267289" ref="index"/>
+    <file name="nomq_index.css" crc="152650672" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="59454831" ref="index"/>
+    <file name="artboard 1.jpg" crc="4118266913" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo baru.png" crc="3766116970" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u17608-12.png" crc="4229041096" ref="index"/>
+    <file name="best product-crop-u721.png" crc="3980015597" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clothes-energetic-exercise-458563.jpg" crc="291212918" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sid 1.png" crc="296489330" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="sid 2.png" crc="302792921" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sid 3.png" crc="3803620875" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sid 4.png" crc="3995727768" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sid 5.png" crc="3796788201" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="testimonial-crop-u1637.png" crc="444742769" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pesan sekarang-crop-u1616.png" crc="167558523" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cable-call-communication-33999-crop-u1673.jpg" crc="3846738219" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="if_whatsapp_986960.png" crc="504349368" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mail icon.png" crc="3759320132" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="smartphone icon.png" crc="220326716" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="if_instagram_1298747.png" crc="4085931379" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1828_states.png" crc="3947272565" ref="index"/>
+    <file name="u1828_states-r.png" crc="4041701798" ref="index"/>
+    <file name="product-crop-u740.png" crc="334453908" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo baru-crop-u215.png" crc="533523981" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u17608-122.png" crc="4229041096" ref="index"/>
+    <file name="best product-crop-u7212.png" crc="3980015597" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="testimonial-crop-u16372.png" crc="337016392" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pesan sekarang-crop-u16162.png" crc="167558523" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cable-call-communication-33999-crop-u16732.jpg" crc="435214439" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1828_states2.png" crc="3947272565" ref="index"/>
+    <file name="u1828_states-r2.png" crc="4041701798" ref="index"/>
+    <file name="product-crop-u7402.png" crc="334453908" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo baru-crop-u2152.png" crc="3984739261" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artboard 1-u260-fr.jpg" crc="4237615585" ref="index"/>
+    <file name="u17608-123.png" crc="423655572" ref="index"/>
+    <file name="best product-crop-u7213.png" crc="3980015597" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="product-crop-u7403.png" crc="334453908" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clothes-energetic-exercise-458563-u979-fr.jpg" crc="3938647706" ref="index"/>
+    <file name="sid 1800x469.png" crc="4222992075" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sid 2800x469.png" crc="184276062" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sid 3800x469.png" crc="121094414" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sid 4800x469.png" crc="276191917" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sid 5800x469.png" crc="52398015" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="testimonial-crop-u16373.png" crc="3960456411" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pesan sekarang-crop-u16163.png" crc="167558523" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cable-call-communication-33999-crop-u16733.jpg" crc="4104644454" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1828_states3.png" crc="3947272565" ref="index"/>
+    <file name="u1828_states-r3.png" crc="4041701798" ref="index"/>
+    <file name="logo baru-crop-u2153.png" crc="4113186405" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artboard 1-u260-fr2.jpg" crc="3913277243" ref="index"/>
+    <file name="u17608-124.png" crc="167172955" ref="index"/>
+    <file name="best product-crop-u7214.png" crc="3980015597" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="product-crop-u7404.png" crc="4164313407" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clothes-energetic-exercise-458563-u979-fr2.jpg" crc="3874319308" ref="index"/>
+    <file name="sid 1640x375.png" crc="37894730" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sid 2640x375.png" crc="4127204538" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sid 3640x375.png" crc="3763127961" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sid 4640x375.png" crc="3835648894" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sid 5640x375.png" crc="215033986" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="testimonial-crop-u16374.png" crc="314583685" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pesan sekarang-crop-u16164.png" crc="167558523" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cable-call-communication-33999-crop-u16734.jpg" crc="4046069071" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1828_states4.png" crc="3947272565" ref="index"/>
+    <file name="u1828_states-r4.png" crc="4041701798" ref="index"/>
+    <file name="logo baru-crop-u2154.png" crc="322944160" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u17608-125.png" crc="189792142" ref="index"/>
+    <file name="best product-crop-u7215.png" crc="3980015597" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="product-crop-u7405.png" crc="334453908" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clothes-energetic-exercise-458563-u979-fr3.jpg" crc="4208422561" ref="index"/>
+    <file name="testimonial-crop-u16375.png" crc="4140786187" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_093030.jpg" crc="4140820439" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_093153.jpg" crc="4193247017" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_093317.jpg" crc="4067584753" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_093552.jpg" crc="526788403" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_093655.jpg" crc="4290687130" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_093746.jpg" crc="3832381531" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_093840.jpg" crc="181085857" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_094002.jpg" crc="4266720821" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_094125.jpg" crc="4168670468" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_094202.jpg" crc="199604440" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_094250.jpg" crc="343518071" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_094349.jpg" crc="4282636439" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_094516.jpg" crc="464221041" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_094610.jpg" crc="4248340580" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_094720.jpg" crc="456845954" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_094941.jpg" crc="328361009" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_095046.jpg" crc="343956236" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_095332.jpg" crc="3911796350" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_095413.jpg" crc="4017424892" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_095529.jpg" crc="3893609392" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_095729.jpg" crc="354446965" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_095844.jpg" crc="3874492861" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_095928.jpg" crc="88979291" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_100030.jpg" crc="3832812813" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_100125.jpg" crc="4228770075" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_100212(1).jpg" crc="478494233" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_100212.jpg" crc="478494233" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_121712.jpg" crc="136857578" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_121749.jpg" crc="377302945" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_121915.jpg" crc="198867912" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_122249.jpg" crc="283927311" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_122343.jpg" crc="426479498" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_122419.jpg" crc="3771254984" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_122451.jpg" crc="313606287" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_122530.jpg" crc="4226310887" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_122610.jpg" crc="438626675" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_122723.jpg" crc="4126491350" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_122751(1).jpg" crc="3848053552" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_122751.jpg" crc="3848053552" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_122832.jpg" crc="54831817" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_122915.jpg" crc="455094035" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_122944.jpg" crc="3886273436" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_123023.jpg" crc="4062894613" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_123104.jpg" crc="3925572366" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_123132.jpg" crc="502618328" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_123227.jpg" crc="300122430" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_123309.jpg" crc="197462030" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_123357(1).jpg" crc="467438759" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_123442.jpg" crc="76029250" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_123531(1).jpg" crc="4128465394" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190113_123531.jpg" crc="4128465394" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-03-30-06-46-38-833_comtokopediatkpd.jpg" crc="381302182" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-03-30-18-11-09-088_comtokopediatkpd.jpg" crc="4226086287" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-03-30-18-12-05-695_comtokopediatkpd.jpg" crc="4289817686" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-03-30-18-14-31-739_comtokopediatkpd.jpg" crc="197559412" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-04-04-11-13-39-344_comtokopediatkpd.jpg" crc="4219179025" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-04-05-20-20-07-017_comtokopediatkpd.jpg" crc="3889872533" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-04-06-21-43-43-293_comtokopediatkpd.jpg" crc="195756498" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-04-11-21-46-00-833_comtokopediatkpd.jpg" crc="376851094" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-04-13-00-23-21-144_comtokopediatkpd.jpg" crc="278577636" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-04-16-22-12-33-208_comtokopediatkpd.jpg" crc="332425922" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-04-18-20-26-08-150_comtokopediatkpd.jpg" crc="190925172" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-04-20-06-11-17-293_comtokopediatkpd.jpg" crc="456664613" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-04-20-18-17-57-410_comtokopediatkpd.jpg" crc="4134031111" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-04-20-21-50-54-881_comtokopediatkpd.jpg" crc="148141536" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-04-21-20-05-13-535_comtokopediatkpd.jpg" crc="4042823580" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-04-21-21-13-53-882_comtokopediatkpd.jpg" crc="4106259855" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-04-23-19-10-20-090_comtokopediatkpd.jpg" crc="4140181139" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-04-29-01-46-04-221_comtokopediatkpd.jpg" crc="3860190301" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-04-29-01-46-39-185_comtokopediatkpd.jpg" crc="283081691" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-04-29-21-41-20-320_comtokopediatkpd.jpg" crc="133520384" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-05-02-13-26-25-832_comtokopediatkpd.jpg" crc="141873085" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-05-02-17-56-29-131_comtokopediatkpd.jpg" crc="155352998" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-05-03-18-10-39-473_comtokopediatkpd.jpg" crc="3826782982" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-05-04-10-07-30-170_comtokopediatkpd.jpg" crc="4165117138" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-05-11-16-25-06-360_comtokopediasellerapp.jpg" crc="3775744031" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-05-17-16-08-39-898_comtokopediatkpd.jpg" crc="3929921948" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-05-21-22-02-11-838_comtokopediatkpd.jpg" crc="351048085" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-05-27-08-57-14-995_comtokopediatkpd.jpg" crc="48525043" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-06-03-11-30-17-347_comtokopediatkpd.jpg" crc="4125275171" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-06-07-16-14-06-419_comtokopediatkpd.jpg" crc="3921452212" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-06-10-15-52-19-995_comtokopediatkpd.jpg" crc="392179247" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-06-18-20-54-22-597_comtokopediatkpd.jpg" crc="4193209997" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-06-23-14-08-36-888_comtokopediatkpd.jpg" crc="56059103" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-06-23-19-52-50-550_comtokopediatkpd.jpg" crc="4083412263" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-07-04-21-57-30-731_comtokopediatkpd.jpg" crc="279594398" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-07-07-09-51-26-404_comtokopediatkpd.jpg" crc="311825114" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-07-10-16-47-19-951_comtokopediatkpd.jpg" crc="1144421" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-07-13-14-28-56-922_comtokopediatkpd.jpg" crc="41789218" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-07-14-11-52-27-902_comtokopediatkpd.jpg" crc="3848969483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-07-17-11-39-45-248_comtokopediatkpd.jpg" crc="234800870" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-07-19-19-57-08-777_comtokopediatkpd.jpg" crc="4141139652" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-07-28-19-38-05-263_comtokopediatkpd.jpg" crc="173171470" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-07-28-19-38-50-166_comtokopediatkpd.jpg" crc="3923914376" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-07-29-21-13-44-142_comtokopediatkpd.jpg" crc="3787589620" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-07-30-19-38-10-077_comtokopediatkpd.jpg" crc="395687342" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-07-31-15-28-43-093_comtokopediatkpd.jpg" crc="423588208" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-08-03-18-46-01-407_comtokopediatkpd.jpg" crc="4125912786" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-08-04-08-57-22-285_comtokopediatkpd.jpg" crc="484322174" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-08-08-15-25-04-035_comtokopediatkpd.jpg" crc="52232124" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-08-10-16-13-54-339_comtokopediatkpd.jpg" crc="3854488820" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-08-14-18-38-29-218_comtokopediatkpd.jpg" crc="3889137614" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-08-15-17-05-29-487_comtokopediatkpd.jpg" crc="513267513" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-08-22-01-21-07-910_comtokopediatkpd.jpg" crc="451572263" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-08-23-16-43-52-253_comtokopediatkpd.jpg" crc="457268191" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-09-15-06-58-01-551_comtokopediatkpd.jpg" crc="3990461845" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-09-16-20-45-49-580_comtokopediatkpd.jpg" crc="4261497461" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-09-23-09-10-13-555_comtokopediatkpd.jpg" crc="3909890264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-09-25-19-48-33-537_comtokopediatkpd.jpg" crc="3854633228" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-09-27-02-40-26-016_comtokopediatkpd.jpg" crc="4276301464" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-09-28-17-40-20-687_comtokopediatkpd.jpg" crc="3844328877" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-10-04-14-46-01-571_comtokopediatkpd.jpg" crc="313213620" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-10-04-22-01-22-524_comtokopediatkpd.jpg" crc="459357879" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-10-14-14-41-39-361_comtokopediatkpd.jpg" crc="337396642" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-10-19-22-10-21-122_comtokopediatkpd.jpg" crc="30551239" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-10-22-17-04-36-472_cominstagramandroid.jpg" crc="235431978" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-10-22-17-05-23-677_cominstagramandroid.jpg" crc="269372288" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-11-01-11-02-10-623_combukalapakandroid.jpg" crc="4217416082" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-11-05-15-44-25-146_comtokopediatkpd.jpg" crc="3824824646" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-11-08-16-02-16-328_comtokopediatkpd.jpg" crc="51483378" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-11-09-06-30-36-522_comtokopediatkpd.jpg" crc="4258645798" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-11-12-18-48-48-319_comtokopediatkpd.jpg" crc="327660187" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-11-12-20-59-22-635_comtokopediatkpd.jpg" crc="3985958357" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-11-18-00-56-22-975_comtokopediatkpd.jpg" crc="3763280517" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-11-18-18-01-40-472_comtokopediatkpd.jpg" crc="3771094467" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2018-12-14-05-29-48-824_comtokopediatkpd.jpg" crc="4092632651" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2019-01-12-21-35-34-149_comwhatsapp.jpg" crc="4200217350" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_2019-01-13-12-07-37-208_comtokopediatkpd.jpg" crc="3999517450" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cable-call-communication-33999-crop-u16735.jpg" crc="166930183" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3746-6.png" crc="4049341736" ref="index"/>
+    <file name="ham menu-u15300-3-fr.png" crc="4014178438" ref="index"/>
+    <file name="ham menu close-u15300-3-a-fr.png" crc="4124982729" ref="index"/>
+    <file name="logo baru-crop-u17322.png" crc="4113186405" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u17608-126.png" crc="517320547" ref="index"/>
+    <file name="best product-crop-u7216.png" crc="3980015597" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="product-crop-u7406.png" crc="334453908" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clothes-energetic-exercise-458563-u979-fr4.jpg" crc="3981463128" ref="index"/>
+    <file name="testimonial-crop-u16376.png" crc="4140786187" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cable-call-communication-33999-crop-u16736.jpg" crc="197079587" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3746-62.png" crc="4049341736" ref="index"/>
+    <file name="logo baru-crop-u173222.png" crc="4113186405" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artboard 1-u260-fr3.jpg" crc="43245762" ref="index"/>
+    <file name="u17608-127.png" crc="201864400" ref="index"/>
+    <file name="best product-crop-u7217.png" crc="3980015597" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="product-crop-u7407.png" crc="334453908" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clothes-energetic-exercise-458563-u979-fr5.jpg" crc="3795808894" ref="index"/>
+    <file name="testimonial-crop-u16377.png" crc="4140786187" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cable-call-communication-33999-crop-u16737.jpg" crc="3899171941" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3746-63.png" crc="4049341736" ref="index"/>
+    <file name="logo baru-crop-u173223.png" crc="3995979067" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="474761645" seo="true" mt="1548418697227" redirect="true"/>
+</manifest>
